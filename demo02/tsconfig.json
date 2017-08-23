@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "static/js",
+        "target": "es3",
+        "module": "commonjs",
+        "sourceMap": true
+    },
+    "include": [
+        "dev/ts/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules/**"
+    ]
+}

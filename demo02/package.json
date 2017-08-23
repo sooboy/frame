@@ -1,0 +1,20 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "demo to make dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "smmit": "github:sooboy/smm",
+    "ts-loader": "^2.3.3",
+    "typescript": "^2.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.5"
+  }
+}
